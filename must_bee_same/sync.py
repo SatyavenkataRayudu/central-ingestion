@@ -1,1 +1,1 @@
-print("Dzhfoisnahfoiehtoierhtboie")
+print("Dont tpuch")
