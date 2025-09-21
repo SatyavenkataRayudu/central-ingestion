@@ -1,1 +1,1 @@
-print("Dont tpuch")
+print("nasdkahd")
